@@ -1,0 +1,10 @@
+# Minecraft files
+logs
+bundler
+libraries
+versions
+server.properties
+crash-reports
+uwucrafter
+spigot.jar
+.DS_Store
